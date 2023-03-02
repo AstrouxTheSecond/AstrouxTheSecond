@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @AstrouxTheSecond or @Typhoon
-- 👀 I’m interested in: Coding
-- 🌱 I’m currently learning: rLua
+- 👋 Hi, I’m Astroux!
+- 👀 I’m interested in: Coding and Gaming
+- 🌱 I’m currently learning: C++/Python
